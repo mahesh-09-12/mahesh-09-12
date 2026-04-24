@@ -12,7 +12,7 @@
 
 # 👾 Contribution Graph
 
-[![Mahesh Gali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahesh-09-12&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)]
+![Mahesh Gali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahesh-09-12&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)
 
 
 # 📊 GitHub Stats:
