@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ffff&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Mahesh;MERN+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ffff&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Mahesh;MERN+Stack+Developer;OSS+Contributor)
 
 
 
